@@ -881,7 +881,7 @@ section .projects-container .box .image img {
   }
 
   .login-form {
-    left: 13%;
+    left: 8%;
   }
 
   .search-form.active {
@@ -889,7 +889,8 @@ section .projects-container .box .image img {
   }
 
   .contact-info.active {
-    left: 32.5%;
+    left: 45.5%;
+    width: 55%
   }
 
   .container-logo img {
